@@ -15,7 +15,7 @@ sentry.properties
 *.swp
 .buildlog/
 .history
-
+.cursor.md
 
 
 # Flutter repo-specific
