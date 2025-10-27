@@ -17,7 +17,7 @@ sentry.properties
 .history
 .cursor.md
 .cursor
-
+progress_notes.md
 # Flutter repo-specific
 /bin/cache/
 /bin/internal/bootstrap.bat
