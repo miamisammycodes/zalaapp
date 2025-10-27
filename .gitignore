@@ -16,7 +16,7 @@ sentry.properties
 .buildlog/
 .history
 .cursor.md
-
+.cursor
 
 # Flutter repo-specific
 /bin/cache/
